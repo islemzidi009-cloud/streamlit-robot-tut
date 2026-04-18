@@ -1,0 +1,5 @@
+ streamlit==1.56.0
+ paho-mqtt ==2.1.0
+ plotly ==6.7.0
+ pandas == 3.0.2
+ firebase_admin ==7.4.0
